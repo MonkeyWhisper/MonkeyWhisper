@@ -17,4 +17,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonkeyWhisper&show_icons=true&theme=tokyonight)
 
-![](https://komarev.com/ghpvc/?username=monkeywhisper&label=VIEWS)
+![Profile views](https://gpvc.arturio.dev/monkeywhisper)
