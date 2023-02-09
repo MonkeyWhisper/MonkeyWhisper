@@ -4,7 +4,7 @@
 </h1>
 
 [1 of 1 Servers](discord.gg/1of1servers) | Owner ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
-- Powerful dedicated servers and VPS servers to host your roleplay servers with the strongest DDOS protection on the market.
+- Powerful dedicated servers and VPS servers to host your roleplay servers with the strongest DDoS protection on the market.
 
 [Project Sloth](discord.gg/projectsloth) | Founder ![discord](https://img.shields.io/discord/897744257237000222?style=flat&logo=discord&logoColor=white)
 - Passionate developers and designers with a primary focus on providing quality resources. Free for all of the FiveM community to enjoy and use.
