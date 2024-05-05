@@ -4,9 +4,45 @@
 </h1>
 
 # [1 of 1 Servers](discord.gg/1of1servers) | Owner ![rating](https://img.shields.io/badge/rating-★★★★★-brightgreen)
-Powerful dedicated servers and VPS servers to host your roleplay servers with the strongest DDoS protection on the market.
 
-![image](https://user-images.githubusercontent.com/82112471/220458476-da80eee8-10a6-4095-a7ba-7011910e7aac.png)
+# Why choose **1 of 1 Servers?**
+![image](https://github.com/MonkeyWhisper/MonkeyWhisper/assets/82112471/d66a30e3-a302-4969-bd1f-8a01e53b866a)
+
+We are a VPS and dedicated server provider, specializing in top-notch features like **strongest gaming DDoS protection** and lightning-fast NVMe SSD storage. Our servers guarantee smooth gaming experiences.
+
+With lightning-fast NVMe SSD storage and 20 Gbps internet speed. Our servers guarantee smooth gaming experiences. Enjoy the ease of instant setup, free Windows licenses, and unparalleled support through our Discord channel.
+
+✓ 4 Tbps **DDoS Protection** by CosmicGuard 
+
+✓ 99.99% Network Uptime
+
+✓ 20 Gbps Internet Speed
+
+✓ NVMe SSD Storage
+
+✓ Discord Support
+
+✓ Unlimited Player Slots
+
+✓ Free transfer of files and setup on our servers
+
+✓ Windows Remote Desktop
+
+✓ Windows or Linux Free License
+
+✓ 24/7 Discord Support Team
+
+✓ We respond to your tickets in 30 Mins or less 96.8% of the time.
+
+Locations:
+
+> USA: Dallas, Ashburn, Los Angeles
+> Europe: UK, Germany, Netherlands
+> Asia: Singapore
+> Australia: Sydney
+
+[Website](https://1of1servers.com) | [Discord](https://discord.gg/1of1servers)
+
 
 # [Project Sloth](discord.gg/projectsloth) | Founder ![discord](https://img.shields.io/discord/897744257237000222?style=flat&logo=discord&logoColor=white)
 Passionate developers and designers with a primary focus on providing quality resources. Free for all of the FiveM community to enjoy and use.
