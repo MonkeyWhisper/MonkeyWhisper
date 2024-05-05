@@ -5,9 +5,8 @@
 
 # [1 of 1 Servers](discord.gg/1of1servers) | Owner ![rating](https://img.shields.io/badge/rating-★★★★★-brightgreen)
 
-# Why choose **1 of 1 Servers?**
 ![image](https://github.com/MonkeyWhisper/MonkeyWhisper/assets/82112471/d66a30e3-a302-4969-bd1f-8a01e53b866a)
-
+# Why choose **1 of 1 Servers?**
 We are a VPS and dedicated server provider, specializing in top-notch features like **strongest gaming DDoS protection** and lightning-fast NVMe SSD storage. Our servers guarantee smooth gaming experiences.
 
 With lightning-fast NVMe SSD storage and 20 Gbps internet speed. Our servers guarantee smooth gaming experiences. Enjoy the ease of instant setup, free Windows licenses, and unparalleled support through our Discord channel.
